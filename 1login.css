@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+body{
+    background-image: url("https://th.bing.com/th/id/R.1a7c6bc402335c3ed1eac14701bc07bf?rik=xs8gK6oliH%2fMPw&pid=ImgRaw&r=0");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    height: fit-content;
+    width: fit-content;
+    font-family: Inter;
+    font-size: 90px;
+    color: white;
+    margin-left: 8%;
+    padding-top:49px;
+}
+#entrar{
+    position: absolute;
+    background-color: #AB3D3A;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border-color: #AB3D3A;
+    font-size: 28px;
+    border-right: #AB3D3A;
+    border-bottom: #AB3D3A;
+    margin-left: 80%;
+    margin-top: -200px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#cad{
+    height: fit-content;
+    width: fit-content;
+    font-family: Inter;
+    font-size: 60px;
+    color: white;
+    margin-left: 30%;
+    padding-top: -9px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.324);
+}
+div{
+    margin-left: 580px;
+    margin-bottom: 20px;
+}
+input{
+    margin-top: -100px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+    border-left: white;
+    border-top: white;
+}
+#vamosla{
+    position: absolute;
+    background-color: #AB3D3A;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border-color: #AB3D3A;
+    font-size: 23px;
+    border-right: #AB3D3A;
+    border-bottom: #AB3D3A;
+    margin-left: 47%;
+    margin-top: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
